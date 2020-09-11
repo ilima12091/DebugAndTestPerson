@@ -1,11 +1,1 @@
-# Universidad Católica del Uruguay
-## Facultad de Ingeniería y Tecnologías
-### Programación II
-Código para la clase de debug and test
-
-La tarea consiste en agregar casos de prueba para verificar que no se pueda asignar cédulas o nombres inválidos; y que
-se puedan asignar cuando sean válidos.
-
-Agreguen todas las pruebas que consideren necesarias.
-
-Un método de prueba por cada caso a probar.
+No pude hacer correr los test porque el programa no me reconocía el import de NUnit así que no los pude probar. Subo los archivos igualmente.
